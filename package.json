@@ -34,18 +34,23 @@
   },
   "homepage": "https://github.com/srn/react-webpack-boilerplate",
   "dependencies": {
+    "axios": "0.15.3",
     "babel-polyfill": "6.3.14",
     "babel-runtime": "6.3.19",
     "body-parser": "1.15.2",
+    "bootstrap": "3.3.7",
     "compression": "1.6.1",
     "cross-env": "1.0.7",
     "ejs": "2.4.1",
     "express": "4.13.4",
     "express-ejs-layouts": "2.0.0",
+    "font-awesome": "4.7.0",
     "react": "0.14.6",
+    "react-bootstrap": "0.30.7",
     "react-dom": "0.14.6",
     "react-fontawesome": "1.5.0",
     "react-icons": "2.2.3",
+    "react-router": "3.0.0",
     "webpack": "1.12.12"
   },
   "devDependencies": {
